@@ -14,7 +14,7 @@ public class Product {
         this.price=price;
     }
 
-
+    //this is the bug that wouldnt create error message so error hard to detect
 
     public long getId() {
         return id;
